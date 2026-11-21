@@ -1,7 +1,217 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T23:42:47.065Z",
+  "generatedAt": "2026-11-21T20:55:59.127Z",
   "terms": {
+    "summer": {
+      "rows": [
+        {
+          "id": "20252:10297",
+          "section": "10297",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:10276",
+          "section": "10276",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20252:10296",
+          "section": "10296",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 2,
+          "capacity": 4,
+          "credits": null
+        },
+        {
+          "id": "20252:34055",
+          "section": "34055",
+          "prefix": "IDSN",
+          "number": "505",
+          "title": "Intensive",
+          "enrolled": 18,
+          "capacity": 25,
+          "credits": 1
+        },
+        {
+          "id": "20252:34062",
+          "section": "34062",
+          "prefix": "IDSN",
+          "number": "515",
+          "title": "Professional Practices Residential",
+          "enrolled": 14,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20252:34083",
+          "section": "34083",
+          "prefix": "IDSN",
+          "number": "525",
+          "title": "Business Essentials",
+          "enrolled": 12,
+          "capacity": 25,
+          "credits": 3
+        },
+        {
+          "id": "20252:34085",
+          "section": "34085",
+          "prefix": "IDSN",
+          "number": "528",
+          "title": "Using Intellectual Property Laws to Protect Your Products and Ideas                              ",
+          "enrolled": 8,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20252:34182",
+          "section": "34182",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20252:34171",
+          "section": "34171",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 0,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20252:34173",
+          "section": "34173",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:34174",
+          "section": "34174",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20252:34175",
+          "section": "34175",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:34176",
+          "section": "34176",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:34177",
+          "section": "34177",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 3,
+          "capacity": 4,
+          "credits": null
+        },
+        {
+          "id": "20252:34178",
+          "section": "34178",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:34180",
+          "section": "34180",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20252:34179",
+          "section": "34179",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 5,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20252:34195",
+          "section": "34195",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 11,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20252:34181",
+          "section": "34181",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 4,
+          "capacity": 25,
+          "credits": 4
+        }
+      ],
+      "totals": {
+        "enrollment": 92,
+        "capacity": 184,
+        "available": 92,
+        "sections": 19,
+        "sch": 136,
+        "omittedSections": 13,
+        "omittedEnrollment": 25
+      },
+      "excluded": [],
+      "code": 20252,
+      "label": "Summer 2025",
+      "url": "https://classes.usc.edu/term/20252/catalogue/school",
+      "snapshotAt": "2026-11-21T20:55:57.416Z",
+      "snapshot": "11/21/2026, 12:55:57 PM PST",
+      "error": null
+    },
     "fall": {
       "rows": [
         {
@@ -587,218 +797,8 @@
       "code": 20243,
       "label": "Fall 2024",
       "url": "https://classes.usc.edu/term/20243/catalogue/school",
-      "snapshotAt": "2026-11-20T23:42:46.670Z",
-      "snapshot": "11/20/2026, 3:42:46 PM PST",
-      "error": null
-    },
-    "summer": {
-      "rows": [
-        {
-          "id": "20252:10297",
-          "section": "10297",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:10276",
-          "section": "10276",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20252:10296",
-          "section": "10296",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 2,
-          "capacity": 4,
-          "credits": null
-        },
-        {
-          "id": "20252:34055",
-          "section": "34055",
-          "prefix": "IDSN",
-          "number": "505",
-          "title": "Intensive",
-          "enrolled": 18,
-          "capacity": 25,
-          "credits": 1
-        },
-        {
-          "id": "20252:34062",
-          "section": "34062",
-          "prefix": "IDSN",
-          "number": "515",
-          "title": "Professional Practices Residential",
-          "enrolled": 14,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20252:34083",
-          "section": "34083",
-          "prefix": "IDSN",
-          "number": "525",
-          "title": "Business Essentials",
-          "enrolled": 12,
-          "capacity": 25,
-          "credits": 3
-        },
-        {
-          "id": "20252:34085",
-          "section": "34085",
-          "prefix": "IDSN",
-          "number": "528",
-          "title": "Using Intellectual Property Laws to Protect Your Products and Ideas                              ",
-          "enrolled": 8,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20252:34182",
-          "section": "34182",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20252:34171",
-          "section": "34171",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 0,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20252:34173",
-          "section": "34173",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:34174",
-          "section": "34174",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20252:34175",
-          "section": "34175",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:34176",
-          "section": "34176",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:34177",
-          "section": "34177",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 3,
-          "capacity": 4,
-          "credits": null
-        },
-        {
-          "id": "20252:34178",
-          "section": "34178",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:34180",
-          "section": "34180",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20252:34179",
-          "section": "34179",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 5,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20252:34195",
-          "section": "34195",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 11,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20252:34181",
-          "section": "34181",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 4,
-          "capacity": 25,
-          "credits": 4
-        }
-      ],
-      "totals": {
-        "enrollment": 92,
-        "capacity": 184,
-        "available": 92,
-        "sections": 19,
-        "sch": 136,
-        "omittedSections": 13,
-        "omittedEnrollment": 25
-      },
-      "excluded": [],
-      "code": 20252,
-      "label": "Summer 2025",
-      "url": "https://classes.usc.edu/term/20252/catalogue/school",
-      "snapshotAt": "2026-11-20T23:42:47.049Z",
-      "snapshot": "11/20/2026, 3:42:47 PM PST",
+      "snapshotAt": "2026-11-21T20:55:58.551Z",
+      "snapshot": "11/21/2026, 12:55:58 PM PST",
       "error": null
     },
     "spring": {
@@ -1464,8 +1464,8 @@
       "code": 20251,
       "label": "Spring 2025",
       "url": "https://classes.usc.edu/term/20251/catalogue/school",
-      "snapshotAt": "2026-11-20T23:42:47.065Z",
-      "snapshot": "11/20/2026, 3:42:47 PM PST",
+      "snapshotAt": "2026-11-21T20:55:59.126Z",
+      "snapshot": "11/21/2026, 12:55:59 PM PST",
       "error": null
     }
   }
